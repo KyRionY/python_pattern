@@ -1,5 +1,5 @@
 ## Python 实现设计模式
-haha
+hahaha
 #### 目录
 
 - 创建型模式
